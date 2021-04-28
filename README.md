@@ -1,6 +1,7 @@
 
 | Deliverable | Due Date              |
 |---------------|----------------------------------------------------------------------------|
+| Informal Design Review  | Wednesday, May 5th at 3:00PM EDT during lab hours |
 | Race/Challenge Day | Friday, May 14th at 2:00PM EDT |
 | Code Pushed to Github  | Friday, May 14th at 11:59PM EDT |
 | Briefing (15 minutes presentation, 5 minutes Q&A) - [rubric](https://docs.google.com/document/d/1NmqQP7n1omI9bIshF1Y-MP70gfDkgEeoMjpWv8hjfsY/edit?usp=sharing)  | Wednesday, May 19th at 1:00PM EDT |
