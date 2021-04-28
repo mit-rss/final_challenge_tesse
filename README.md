@@ -160,7 +160,7 @@ To track collisions, use the topic `/tesse/collision`, which will tell you when 
 
 <img src="media/obstacle_avoidance_course.png" width="1000"/>
 
-A video of a working Fast Obstacle Avoidance course run can be seen [here](https://drive.google.com/open?id=1c-Pp6vZvzlnFsEls-HOOBYOYfozxoqsV).
+A video of the Fast Obstacle Avoidance course can be seen [here](https://drive.google.com/open?id=1c-Pp6vZvzlnFsEls-HOOBYOYfozxoqsV).
 
 You can find the executable to download and run [here](https://drive.google.com/drive/u/2/folders/15BGjddbtvlifvTnLO5aHRbJZsQxe2DFP).
 
