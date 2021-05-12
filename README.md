@@ -165,7 +165,7 @@ A video of the Fast Obstacle Avoidance course can be seen [here](https://drive.g
 
 You can find the executable to download and run [here](https://drive.google.com/drive/u/2/folders/15BGjddbtvlifvTnLO5aHRbJZsQxe2DFP).
 
-**Note:** To change the number of spawned obstacles on the 4 lane highway for testing purposes, modify the `num_objects: <insert desired number of obstacles here>` param at `tesse-ros-bridge/ROS/params/object_spawn_params.yaml.` Note that this number will be set on race day and your changes overwritten.
+**Note:** To change the number of spawned obstacles on the 4 lane highway for testing purposes, modify the `num_objects: <insert desired number of obstacles here>` param at `tesse-ros-bridge/ROS/params/obstacle_spawns.yaml`. Note that this number will be set on race day and your changes overwritten.
 
 ### Scoring
 
